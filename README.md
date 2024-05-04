@@ -22,9 +22,13 @@
 
 ## 문의
 
-질문이나 피드백이 있으시면 언제든지 저장소 소유자에게 연락하세요.
+<p>질문이나 피드백이 있으시면 언제든지 저장소 소유자에게 연락하세요. 
+&nbsp;&nbsp;작성자의 블로그 링크, <a href="https://blog.naver.com/tt2t2am1118">https://blog.naver.com/tt2t2am1118 </a>
 
----
 
-좋은 하루 보내세요!
+<a href="https://openai.com">openai.com</a>, ChatGPT의 도움을 받아서 파일 작성했습니다.
+
+ 
+ 
+<b>좋은 하루 보내세요!</b> </p>
 
